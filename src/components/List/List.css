@@ -1,0 +1,9 @@
+.arrow-down {
+	transform: rotate(90deg);
+	color: white;
+}
+
+.arrow-up {
+	transform: rotate(-90deg);
+	color: white;
+}
